@@ -1,2 +1,2 @@
 # RadlER
-A novel solution to produce deduplicated samples from dirty data according to a target distribution
+A novel solution to produce clean samples from data containing duplicates according to a target distribution
