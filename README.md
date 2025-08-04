@@ -4,7 +4,7 @@
 
 In this repository, we provide the code and the datasets for RadlER, a novel solution to produce clean samples from data containing duplicates according to a target distribution.
 
-You can find all details about deduplicated sampling on-demand and the RadlER framework in our <a href="https://www.vldb.org/pvldb/vol18/p2482-zecchini.pdf">research paper</a>, which will be presented jointly with the related demonstration at VLDB in London (September 1-5, 2025):
+You can find all details about deduplicated sampling on-demand with RadlER in our <a href="https://www.vldb.org/pvldb/vol18/p2482-zecchini.pdf">research paper</a>, which will be presented jointly with the related demonstration at VLDB in London (September 1-5, 2025):
 
     @article{radler,
       author    = {Luca {Zecchini} and Vasilis {Efthymiou} and Felix {Naumann} and Giovanni {Simonini}},
@@ -31,4 +31,5 @@ You can also take a look at our demonstration:
       year      = {2025},
       doi       = {10.14778/3750601.3750661}
     }
+
 
