@@ -1,6 +1,6 @@
 # 🍋 RadlER: Deduplicated Sampling On-Demand
 
-<i>[04.08.2025] The refined and documented version of the code will be made available in a few weeks.</i>
+<i>The refined and documented version of the code will be made available as soon as possible.</i>
 
 In this repository, we provide the code and the datasets for RadlER, a novel solution to produce clean samples from data containing duplicates according to a target distribution.
 
